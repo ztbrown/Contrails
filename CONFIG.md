@@ -1,24 +1,50 @@
 
 # recordName
 
-emotional-support-pets
+nba-skeets
 
 # displayName
 
-Emotional Support Pets
+NBA Skeets
 
 # description
 
-Cute animals feed
+A nice little feed with NBA skeets
 
 # searchTerms
 
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- celtics 
+- nets
+- knicks
+- heat 
+- 76ers
+- sixers
+- raptors
+- bulls
+- cavaliers
+- pistons
+- pacers
+- bucks
+- hawks
+- hornets
+- magic
+- wizards
+- nuggets
+- timberwolves
+- trailblazers
+- trail blazers
+- jazz
+- warriors
+- clippers
+- lakers
+- suns
+- kings
+- mavericks
+- rockets
+- grizzlies
+- pelicans
+- spurs
 
 # avatar
 
-![](avatar.png)
+![](nickyoung.jpeg)
