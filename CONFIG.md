@@ -47,4 +47,4 @@ A nice little feed with NBA skeets
 
 # avatar
 
-![](nickyoung.png)
+![](avatar.png)
